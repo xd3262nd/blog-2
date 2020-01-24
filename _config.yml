@@ -22,7 +22,7 @@ title: Testing
 email: thisisatestemail@done.com
 description: >- # this means to ignore newlines until "baseurl:"
   YoushouldknowwhatIcansay
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "blog-2" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
